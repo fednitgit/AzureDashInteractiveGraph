@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Dash-Python-POC'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A09EB32AAFA4FF3A2E412B764A3293A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_926CDB50FDF84E33BA9EE61FDE39F8B6 }}
